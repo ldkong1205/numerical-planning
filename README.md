@@ -3,7 +3,7 @@
   <img src="image/numerical.png" alt="logo" width="280" height="88">
 
   <p align="center">
-  <strong>Comparisons among Six Numerical Methods for Solving Repetitive Motion Planning of Redundant Robot Manipulators</strong>
+  <strong>Comparisons among Six Numerical Methods for Solving Repetitive Motion Planning <br>of Redundant Robot Manipulators</strong>
   </p>
 </p>
 
