@@ -23,3 +23,7 @@
 This repository contains the MATLAB implementation of <a href="https://ieeexplore.ieee.org/document/8665072">Comparisons among Six Numerical Methods for Solving Repetitive Motion Planning of Redundant Robot Manipulators</a>, 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
 
 In this work, three traditional numerical methods (i.e., 94LVI, E47 and M4) and three novel numerical methods (i.e., M3, M5 and M6) are exploited, analyzed, and compared to solve the piecewise linear projection equation (PLPE) in robot manipulation (also known as the repetitive motion planning or RMP problem).
+
+<img src="https://github.com/ldkong1205/numerical-planning/blob/master/image/simulation.png">
+
+## Results
