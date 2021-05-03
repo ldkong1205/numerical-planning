@@ -26,7 +26,7 @@ In this work, three traditional numerical methods (i.e., 94LVI, E47 and M4) and 
 
 <img src="https://github.com/ldkong1205/numerical-planning/blob/master/image/simulation.png">
 
-If you find this paper helpful, please kindly consider citing it in your publications.
+If you find this work helpful, please kindly consider citing our paper in your publications.
 
 ```
 @inproceedings{kong2018six,
