@@ -26,6 +26,17 @@ In this work, three traditional numerical methods (i.e., 94LVI, E47 and M4) and 
 
 <img src="https://github.com/ldkong1205/numerical-planning/blob/master/image/simulation.png">
 
+If you find this paper helpful, please kindly consider citing our paper in your publications.
+
+```
+@inproceedings{kong2018six,
+  title={Comparisons among Six Numerical Methods for Solving Repetitive Motion Planning of Redundant Robot Manipulators},
+  author={Zhang, Zhijun and Kong, Lingdong and Yan, Ziyi and Chen, Ke and Li, Shuai and Qu, Xilong and Tan, Ning},
+  booktitle={Proceedings of the IEEE International Conference on Robotics and Biomimetics},
+  year={2018}
+}
+```
+
 ## Results
 
 - Joint drifts
