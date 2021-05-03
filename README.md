@@ -37,3 +37,8 @@ In this work, three traditional numerical methods (i.e., 94LVI, E47 and M4) and 
 - Computation time
 <img src="https://github.com/ldkong1205/numerical-planning/blob/master/image/table03.png">
 
+## References
+
+* Z. Zhang, L. Zheng, J. Yu, Y. Li, and Z. Yu. “Three recurrent neural networks and three numerical methods for solving a repetitive motion planning scheme of redundant robot manipulators,” *IEEE/ASME Transactions on Mechatronics*, 2017.
+* L. Xiao and Y. Zhang. “Acceleration-level repetitive motion planning and its experimental verification on a six-link planar robot manipulator,” *IEEE Transactions on Control Systems Technology*, 2013.
+* Y. Zhang, Z. Tan, K. Chen, Z. Yang, and X. Lv, “Repetitive motion of redundant robots planned by three kinds of recurrent neural networks and illustrated with a four-link planar manipulators straight-line example,” *Robotics and Autonomous Systems*, 2009.
