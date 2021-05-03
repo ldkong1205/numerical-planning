@@ -28,12 +28,12 @@ In this work, three traditional numerical methods (i.e., 94LVI, E47 and M4) and 
 
 ## Results
 
-### - Joint drifts
+- Joint drifts
 <img src="https://github.com/ldkong1205/numerical-planning/blob/master/image/table01.png">
 
-### Joint drifts
+- Joint drifts
 <img src="https://github.com/ldkong1205/numerical-planning/blob/master/image/table02.png">
 
-### Computation time
+- Computation time
 <img src="https://github.com/ldkong1205/numerical-planning/blob/master/image/table03.png">
 
